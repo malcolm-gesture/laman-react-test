@@ -1,0 +1,6 @@
+Requirements:
+-Fetch initial 20 todos from https://jsonplaceholder.typicode.com/todos.
+-For each todo display title, checkbox and a button to delete the todo
+-Checkbox should provide the ability to mark todo as completed.Completed todos should have a line-through text style.
+-Delete button should remove the todo.
+-Provide functionality to add(type) a new todo
